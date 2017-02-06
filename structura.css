@@ -1,0 +1,20 @@
+.iit{
+	font-style: serif;
+	text-align: center;
+	color: #FFFFFF;
+	
+	background-color: #FF9595;
+	background-position: top;
+	margin-left:  25%;	
+	margin-right: 25%;
+}
+.center{
+	margin-left: 08%;
+	margin-right: 08%;
+}
+img{
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+
+}
